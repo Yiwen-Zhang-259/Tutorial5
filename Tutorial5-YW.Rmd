@@ -25,3 +25,12 @@ facet_wrap(~id)
 ```
 
 
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
